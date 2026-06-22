@@ -1,24 +1,13 @@
 # venados
 
-Venados F.C.
-
-## Overview
-
-| Attribute | Details |
-|-----------|---------|
-| **Language** | Dart |
-| **Size** | ~0.4 MB |
-| **Last Updated** | 2020-12-03T03:45:12Z |
+A Venados F.C. test project.
 
 ## Getting Started
 
-```bash
-git clone https://github.com/FernandoMay/venados.git
-cd venados
-flutter pub get
-flutter run
-```
+This project is a starting point for a Venados F.C. application.
 
-## License
+A few resources to Venados F.C. API:
 
-MIT
+- [Games](https://venados.dacodes.mx/api/games)
+- [Statistics](https://venados.dacodes.mx/api/statistics)
+- [Players](https://venados.dacodes.mx/api/players)
